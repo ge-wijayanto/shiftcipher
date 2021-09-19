@@ -11,4 +11,4 @@
 ---
 
 ### Screenshot Program
-![shift cipher](/img/shift.png)
+![shift cipher](/img/shift)
